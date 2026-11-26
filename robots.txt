@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://comunicacion.estrategiadigitalestrella.com/sitemap.xml
